@@ -154,7 +154,7 @@ $RuntimeLog = Join-Path $TargetDir "sandbox.log"
 $PidFile = Join-Path $TargetDir "sandbox.pid"
 $LockFile = Join-Path $TargetDir "sandbox-upgrade.lock"
 $BinaryName = "clay-sandbox-windows-amd64.exe"
-$DownloadUrl = "https://github.com/ClawWallet/Claw_Wallet_Bin/raw/refs/heads/dev/bin/$BinaryName"
+$DownloadUrl = "https://github.com/ClawWallet/Claw_Wallet_Bin/raw/refs/heads/main/bin/$BinaryName"
 $TmpFile = "$TargetBin.download"
 $BackupFile = "$TargetBin.bak.$CurrentVersion.$(Get-Date -Format 'yyyyMMddHHmmss')"
 
