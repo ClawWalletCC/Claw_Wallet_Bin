@@ -150,7 +150,7 @@ LOG_FILE="$TARGET_DIR/sandbox.log"
 PID_FILE="$TARGET_DIR/sandbox.pid"
 UPDATE_LOG="$TARGET_DIR/sandbox-update.log"
 LOCK_FILE="$TARGET_DIR/sandbox-upgrade.lock"
-DOWNLOAD_URL="https://github.com/ClawWallet/Claw_Wallet_Bin/raw/refs/heads/main/bin/$BINARY_NAME"
+DOWNLOAD_URL="https://www.clawwallet.cc/bin/$BINARY_NAME"
 TMP_FILE="${TARGET_BIN}.download"
 BACKUP_FILE="${TARGET_BIN}.bak.${CURRENT_VERSION}.$(date +%Y%m%d%H%M%S)"
 
