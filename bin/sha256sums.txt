@@ -1,2 +1,2 @@
-bf06f3c907961389583863c038b15eb2c29932cdfb81c8723a0b95d263a556f5  clay-sandbox-darwin-arm64
-6615fcd6b7adaa0599a4a3d01b4e4f0d800b993373e4328c920fec6588400fc8  clay-sandbox-linux-amd64
+a43cb8aa2e0530dfc1833c6aa5c9673beb4062d5e5d90974c0cda2a0e26de658  clay-sandbox-darwin-arm64
+585bb4ece9a12c4b1905a8b1d71f6d9d4b2e2c8949bcba2fc8f63c8bad607d35  clay-sandbox-linux-amd64
